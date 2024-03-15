@@ -4,7 +4,7 @@ Simple and easy script to startup new Typst projects (we are not using the real 
 
 ## Usage
 
-As now, we can specify the name of the project and the name of the user. The script will create a new directory with the name of the project inside `Outputs``
+As now, we can specify the name of the project and the name of the user. The script will create a new directory with the name of the project inside `Outputs`
 
 ```bash
 % python3 terraform.py
