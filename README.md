@@ -12,3 +12,5 @@ Who are you? Miche-lino
 What is the title of your new Typst project? Quantum Simulation
 Project created successfully
 ```
+
+As now we have only one template, in the future we need to a add new templates, such as "Reports" with different configs
